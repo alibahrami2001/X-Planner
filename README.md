@@ -8,3 +8,4 @@
 <img src="https://github.com/sh4de-c4t/X-Planner/blob/main/file/2.png" />
   <br>
 </div>
+live : https://sh4de-c4t.github.io/X-Planner/
